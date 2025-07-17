@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IDEs
+.idea/
+*.iml
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+application.properties
+.env
+
+# Maven
+.mvn/
